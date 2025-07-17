@@ -1,5 +1,7 @@
 Lua plugin to swap buffers easily between split windows without changing the window layout
 
+**NOTE**: this was born as a fork of [swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim), with further tweakings and refinements.
+
 <p align="center">
    <img src="https://i.imgur.com/z3YxA64.gif">
 <p>
